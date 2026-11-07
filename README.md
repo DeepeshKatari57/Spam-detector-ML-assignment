@@ -12,9 +12,9 @@ Unwanted spam emails waste time and carry phishing risks. The goal is to build a
 - **Preprocessing:** `StandardScaler` for Logistic Regression, KNN and SVM (stored inside each saved pipeline, so no separate preprocessing file is needed). Decision Tree and Gaussian Naive Bayes use raw features.
 
 ## c. GitHub repository link
-GITHUB_LINK_HERE
+https://github.com/DeepeshKatari57/Spam-detector-ML-assignment/tree/main
 
-Live Streamlit app: STREAMLIT_LINK_HERE
+Live Streamlit app: https://spam-detector-ml-assignment-xw5tmqkwxwdubertawxixb.streamlit.app/
 
 Repository layout: `app.py`, `train.py`, `metrics_utils.py`, `requirements.txt`, `README.md`, `test_data.csv`, `data/spambase_full.csv`, `model/` (5 `.joblib` pipelines).
 
